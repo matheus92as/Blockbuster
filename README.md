@@ -26,6 +26,8 @@ Este projeto é baseado em um case da [Promobit](https://github.com/Promobit/fro
 
 Parte do desafio era utilizar uma API pronta, a TMDB (The Movie DataBase), uma API muito complexa e cheia de Endpoits. Neste projeto foram utilizadas requisições muito expecificas, e para isso foi necessário uma API_KEY disponibilizada ao criar cadastro na pagina da API, mas caso você queira testar as funções dessa aplicação basta acessar o link abaixo.
 
+https://blockbuster-gules.vercel.app
+
 ---
 
 <br/>
@@ -36,7 +38,7 @@ Caso você queira instalar este projeto em sua maquina e fazer alguma modificaç
 
 ```bash
    # Clonar o repositório
-   $ git clone https://github.com/matheus92as/
+   $ git clone https://github.com/matheus92as/Blockbuster.git
 
 ```
 Após baixar ou clonar o projeto, abra a pasta principal dele pelo terminal e instale as bibliotecas já disponíveis no package.json
