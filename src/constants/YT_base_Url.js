@@ -1,0 +1,1 @@
+export const YT_base_Url = "https://www.youtube.com/embed/"
